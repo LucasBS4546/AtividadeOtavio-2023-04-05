@@ -1,0 +1,12 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    padding: 70px;
+}
+img {
+    width: 150px;
+    border-radius: 8px;
+    margin: 15px;
+}
